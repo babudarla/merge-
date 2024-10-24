@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673175057 source:d:\practi\array\fun.c
+	"head.h"
+
+1673097440 d:\practi\array\head.h
+	<stdio.h>
+
+1673175518 source:d:\practi\array\main.c
+	"head.h"
+
